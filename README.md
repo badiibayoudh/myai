@@ -1,0 +1,2 @@
+# myai
+My AI resources
