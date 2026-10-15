@@ -16,3 +16,6 @@ pip install llama-index-vector-stores-chroma
 
 pip install llama-index-callbacks-arize-phoenix
 pip install -q arize-phoenix
+
+
+pip install llama-index-utils-workflow
