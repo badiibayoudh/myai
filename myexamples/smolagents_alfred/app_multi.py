@@ -18,8 +18,8 @@ from tools.final_answer import FinalAnswerTool as FinalAnswer
 # Langfuse configuration
 #---------------------
 # Get keys for your project from the project settings page: https://cloud.langfuse.com
-os.environ["LANGFUSE_PUBLIC_KEY"] = "pk-lf-432b5f77-8611-4256-ba6b-70571083dfa4" 
-os.environ["LANGFUSE_SECRET_KEY"] = "sk-lf-4f0e9c76-7da1-44fa-a1d5-9ac250ff3fc3" 
+os.environ["LANGFUSE_PUBLIC_KEY"] = "harcoded" 
+os.environ["LANGFUSE_SECRET_KEY"] = "harcoded" 
 os.environ["LANGFUSE_HOST"] = "https://cloud.langfuse.com" # 🇪🇺 EU region
 
 # Instrumentation for Langfuse
