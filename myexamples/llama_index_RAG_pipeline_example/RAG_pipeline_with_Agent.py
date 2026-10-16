@@ -94,7 +94,6 @@ eval_result.passing
 import llama_index
 import os
 
-PHOENIX_API_KEY = "harcoded"
 os.environ["OTEL_EXPORTER_OTLP_HEADERS"] = f"api_key={PHOENIX_API_KEY}"
 llama_index.core.set_global_handler(
     "arize_phoenix",
